@@ -5,7 +5,7 @@ This is for testing various play arounds with git :P
 
 
 | *L* | *C* | *R* |
-|--|--|--|--|
+|--|--|--|
 | A2 |  B2  |  C2 |
 | A3 |  B3  |  C3 |
 | multi span |||
