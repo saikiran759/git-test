@@ -4,7 +4,7 @@ git-test
 This is for testing various play arounds with git :P
 
 
-| *L* | *C* | *R* |
+| 1 | 2| 3 |
 |--|--|--|
 | A2 |  B2  |  C2 |
 | A3 |  B3  |  C3 |
