@@ -1,2 +1,2 @@
-adding in 2
-more additions in 2
+user1:password1
+user2:password2
